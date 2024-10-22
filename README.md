@@ -17,23 +17,22 @@
 
 MeraTutor - AI-powered virtual teacher ensures continuous, personalized learning remotely.
 
-### What's the problem?
-
-
+### Problem Statement
 
 The current education system, while robust in many ways, often fails to address the individual learning needs of students. Major challenges include:
 
-  
-    
-    • Inequitable Access: Students from underserved communities or with disabilities often lack access to tailored resources or support systems that address their specific learning challenges.
-These issues collectively contribute to achievement gaps, disengagement, and missed learning opportunities. The challenge is to create a system that delivers personalized learning 		experiences, offers real-time feedback, and promotes inclusivity regardless of students' abilities or backgrounds.
+* **Inequitable Access**: Students from underserved communities or those with disabilities often don’t get the personalized resources or support they need to help with their learning challenges. This leads to learning gaps and missed opportunities for success.
 
-Climate Change : Climate change-induced disasters such as floods, droughts, wildfires, and storms can disrupt education by destroying school infrastructure, displacing communities, or causing temporary school closures. Vulnerable communities are more likely to suffer from the prolonged effects of such events.Environmental disasters and climate-induced displacement can force families to move, interrupting children’s education and often placing them in environments where access to schools is limited or non-existent.
+* **Climate Change** : Natural disasters like floods, droughts, wildfires etc, made worse by climate change disturb education by damaging schools, forcing families to move, and causing temporary school closures. Vulnerable communities are hit the hardest, making it harder for kids to continue their education.
 
-Transportation Barriers: In geographically isolated regions, students may struggle to physically access schools due to long distances, poor roads, or a lack of affordable transportation. Natural disasters exacerbated by climate change, such as floods or landslides, can make school access even more difficult.
+* **Transportation Barriers**: In remote areas, students struggle to reach schools because of long distances, poor roads, or lack of affordable transport. Disasters like floods or landslides make getting to school even harder.
 
-  • Lack of Personalized Learning: Many students struggle in traditional learning environments because lessons are not tailored to their pace or style of learning.
+* **Lack of Personalized Learning**: Many students find it difficult to keep up in traditional classrooms because lessons aren’t designed to match their learning pace or style.
     
-    • Resource Constraints: Teachers often have large classes and limited time, making it difficult to give personalized attention to each student.
+* **Resource Constraints**: Teachers often have large class sizes and limited time, making it hard to give each student the individual attention they need.
     
-    • Assessment Gaps: Traditional assessments do not provide real-time feedback on a student’s understanding and fail to adapt to individual learning needs.
+* **Assessment Gaps**: Traditional assessments don’t offer immediate feedback on how well a student understands a topic and fail to adapt to individual learning needs.
+
+### How can technology help?
+
+
