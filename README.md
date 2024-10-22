@@ -69,18 +69,18 @@ MeraTutor is a smart AI-powered virtual teacher designed to help students learn 
 
 **Assessment Gaps**: Traditional tests often don’t provide quick feedback on how well students understand a topic. MeraTutor evaluates student performance on quizzes and assignments, giving helpful suggestions for improvement and guiding them on what to focus on next.
 
-How MeraTutor Works
+**How MeraTutor Works**
 
 MeraTutor includes several smart features that work together to enhance learning:
 
-    Virtual Tutor: This friendly assistant explains lessons clearly and answers questions. It adapts its explanations based on each student’s understanding, ensuring everyone feels supported in their learning.
+**Virtual Tutor**: This friendly assistant explains lessons clearly and answers questions. It adapts its explanations based on each student’s understanding, ensuring everyone feels supported in their learning.
 
-    Quiz Generator: When students feel ready, MeraTutor creates personalized quizzes to test their knowledge. These quizzes help reinforce what they’ve learned and identify areas where they need more practice.
+**Quiz Generator**: When students feel ready, MeraTutor creates personalized quizzes to test their knowledge. These quizzes help reinforce what they’ve learned and identify areas where they need more practice.
 
-    Evaluator & Feedback Agent: After quizzes, students get detailed feedback on their answers. This agent highlights what they did well and points out where they can improve, giving them useful insights for their learning.
+**Evaluator & Feedback Agent**: After quizzes, students get detailed feedback on their answers. This agent highlights what they did well and points out where they can improve, giving them useful insights for their learning.
 
-    Continuous Learning: MeraTutor keeps track of how each student is doing and adjusts its approach to provide ongoing support. If a student struggles with a topic, the Virtual Tutor can explain it again in a simpler way, making sure they understand before moving on.
+**Continuous Learning**: MeraTutor keeps track of how each student is doing and adjusts its approach to provide ongoing support. If a student struggles with a topic, the Virtual Tutor can explain it again in a simpler way, making sure they understand before moving on.
 
-MeraTutor makes learning fun and engaging through interactive activities and games. By offering personalized attention and continuous support, it helps students stay motivated and connected, no matter their circumstances.
+MeraTutor makes learning fun and engaging through interactive activities. By offering personalized attention and continuous support, it helps students stay motivated and connected, no matter their circumstances.
 
-In summary, MeraTutor aims to create a fairer education system where every student has the chance to learn, grow, and succeed. By using technology to provide customized learning experiences, MeraTutor helps students overcome challenges and reach their full potential in their educational journeys.
+MeraTutor aims to create a fairer education system where every student has the chance to learn, grow, and succeed. By using technology to provide customized learning experiences, MeraTutor helps students overcome challenges and reach their full potential in their educational journeys.
