@@ -15,7 +15,7 @@
 
 ## Short description 
 
-MeraTutor - AI-powered virtual teacher ensures continuous, personalized learning remotely.
+**MeraTutor** - AI-powered virtual teacher ensures continuous, personalized learning remotely.
 
 ### Problem Statement
 
@@ -35,4 +35,17 @@ The current education system, while robust in many ways, often fails to address 
 
 ### How can technology help?
 
+MeraTutor helps students continue learning, even when they can't go to school because of problems like natural disasters, bad weather, or transportation issues. It adjusts lessons to fit each student’s way of learning and how fast they learn, so no one falls behind. If schools are closed or students can’t attend in person, it lets them learn from home or anywhere else. It makes learning fun by using interactive activities, quizzes, and games, and gives instant feedback so students know how they’re doing right away.
+
+It also supports students with special learning needs by giving personalized attention and lessons that are easier to understand. It acts like a tutor, offering assignments, asking questions, and giving helpful feedback to keep students on track. If a student struggles with a topic, the virtual tutor can re-explain it in a simpler way. By providing continuous and tailored learning, MeraTutor make sure students don’t miss out on education, even during difficult situations, and helps them stay motivated and engaged in their studies.
+
+### The idea
+
+AI-Powered Learning Assistants for Inclusive Education
+To address the challenges of personalization and inclusivity in education, we propose an AI-powered learning system designed to act as a personal tutor for every student. The system consists of three intelligent agents that work together to create a holistic learning experience:
+    1. AI Tutor: An intelligent assistant that explains concepts, answers questions, and clarifies doubts in real time. It adapts explanations to the student's level of understanding, ensuring that no one is left behind.
+    2. Quiz Generator: Once the student feels confident, the AI generates quizzes to test their understanding of the material. The quizzes are adaptive, providing questions based on the topics covered.
+    3. Evaluator & Feedback Agent: After the quiz, this agent evaluates the student's responses, offering detailed feedback and generating a performance report. The system identifies areas where the student excels and where they may need further practice, providing personalized recommendations.
+    4. Assignment Generator: Based on the evaluation, this agent provides practice assignments and activities, allowing students to reinforce their understanding and apply concepts in various contexts.
+This AI-powered learning system not only personalizes the learning journey for each student but also continuously adapts based on their progress, ensuring that students receive the support they need in real time.
 
