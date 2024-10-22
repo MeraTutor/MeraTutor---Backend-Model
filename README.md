@@ -41,11 +41,13 @@ It also supports students with special learning needs by giving personalized att
 
 ### The idea
 
-AI-Powered Learning Assistants for Inclusive Education
+**AI-Powered Learning Assistants for Inclusive Education**
+
 To address the challenges of personalization and inclusivity in education, we propose an AI-powered learning system designed to act as a personal tutor for every student. The system consists of three intelligent agents that work together to create a holistic learning experience:
-    1. AI Tutor: An intelligent assistant that explains concepts, answers questions, and clarifies doubts in real time. It adapts explanations to the student's level of understanding, ensuring that no one is left behind.
-    2. Quiz Generator: Once the student feels confident, the AI generates quizzes to test their understanding of the material. The quizzes are adaptive, providing questions based on the topics covered.
-    3. Evaluator & Feedback Agent: After the quiz, this agent evaluates the student's responses, offering detailed feedback and generating a performance report. The system identifies areas where the student excels and where they may need further practice, providing personalized recommendations.
-    4. Assignment Generator: Based on the evaluation, this agent provides practice assignments and activities, allowing students to reinforce their understanding and apply concepts in various contexts.
+
+* AI Tutor: An intelligent assistant that explains concepts, answers questions, and clarifies doubts in real time. It adapts explanations to the student's level of understanding, ensuring that no one is left behind.
+* Quiz Generator: Once the student feels confident, the AI generates quizzes to test their understanding of the material. The quizzes are adaptive, providing questions based on the topics covered.
+* Evaluator & Feedback Agent: After the quiz, this agent evaluates the student's responses, offering detailed feedback and generating a performance report. The system identifies areas where the student excels and where they may need further practice, providing personalized recommendations.
+* Assignment Generator: Based on the evaluation, this agent provides practice assignments and activities, allowing students to reinforce their understanding and apply concepts in various contexts.
 This AI-powered learning system not only personalizes the learning journey for each student but also continuously adapts based on their progress, ensuring that students receive the support they need in real time.
 
